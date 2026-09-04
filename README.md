@@ -1,6 +1,3 @@
-Got it. You want the **complete `README.md` file content** for your **Gurgaon Real Estate Analysis using Python**, in a format you can directly copy into GitHub.
-
-````markdown
 # 🏠 Gurgaon Real Estate Analysis using Python
 
 ## 📌 Project Overview
